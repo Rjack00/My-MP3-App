@@ -2,10 +2,10 @@
     /* colors */
     --primary-color: #dfdfe2;
     --secondary-color: #ffffff;
-    --app-background-color: #4d4d62;
-    --background-color: #1b1b32;
-    --foreground-color: #3b3b4f;
-    --highlight-color: #f1be32;
+    --app-background-color: #00000c;
+    --background-color: #01010e;
+    --foreground-color: #252525;
+    --highlight-color: #faad06;
   
     /* font sizes */
     --root-font-size: 16px;
@@ -165,8 +165,8 @@
   
   button:focus,
   .playlist-song:focus {
-    outline-style: dashed;
-    outline-width: 2px;
+    outline-style: inset;
+    outline-width: 1px;
   }
   
   /* Playlist */
