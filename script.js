@@ -11,7 +11,7 @@ const allSongs = [
     title: "Scratching The Surface",
     artist: "Quincy Larson",
     duration: "4:25",
-    src: "https://music.youtube.com/watch?v=YKRmnxaQlFE&si=2PMB163YxNhn0LAZ",
+    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3",
   },
   {
     id: 1,
