@@ -115,6 +115,7 @@
   
   #player-album-art img {
     width: 150px;
+    height: 240px;
     display: block;
   }
   
